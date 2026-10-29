@@ -8,6 +8,7 @@
     "url": "https://protime.ai"
   },
   "homepage": "https://protime.ai/de/firmen-pruefen",
+  "repository": "https://github.com/marcloeb/protime-claude-plugin",
   "keywords": [
     "switzerland",
     "commercial-register",
