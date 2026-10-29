@@ -33,4 +33,4 @@ description: Manage briefing sources and settings — add or remove URLs, change
 - Adding a source should be one step: URL in, confirmation out.
 - Always say which briefing was changed.
 - Pausing stops new issues; nothing is deleted. There is no delete tool — to remove a briefing for good, the user does it in the Protime web app.
-- If a tier limit is hit, pass the tool's message on as written.
+- If a tier limit is hit, relay the tool's message as written.

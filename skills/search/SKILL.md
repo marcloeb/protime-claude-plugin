@@ -19,7 +19,7 @@ Argument: [keyword to search for]
 
 ## Instructions
 
-1. Call `search_issues` with `keyword`. It searches ACTIVE briefings; pass `briefingId` to search one specific briefing, including archived ones.
+1. Call `search_issues` with `keyword`. It searches ACTIVE briefings; set `briefingId` to search one specific briefing, including archived ones.
 2. Raise `maxIssues` (up to 10) if the user wants to go further back.
 3. Present matches newest first, grouped by briefing.
 4. To go deeper into a match, read the full issue with `get_issue`.

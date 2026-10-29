@@ -25,7 +25,7 @@ Argument: [topic to track, e.g. "AI regulations in Europe"]
 4. Show what was set up. Then offer:
    - another schedule (`daily`, `weekly`, `monthly`) → `manage_config` with `updates.schedule`
    - extra sources the user already reads → `manage_sources` with `add`
-5. If the tier limit is reached, the tool says so. Pass the message on as written.
+5. If the tier limit is reached, the tool says so. Relay the message as written.
 
 ## Output Format
 
